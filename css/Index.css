@@ -1,0 +1,31 @@
+body{
+    width : 1000px;
+    margin : auto;
+    background-image : url('../img/Background/carreBleu.jpg');
+    background-repeat : repeat-x;
+}
+
+.pageTop{
+    display : flex;
+    justify-content: space-between;
+
+}
+
+
+
+h1{
+    
+}
+
+.blocks{
+    display : flex;
+    justify-content: space-between;
+}
+
+
+.portrait{
+    
+}
+
+
+
